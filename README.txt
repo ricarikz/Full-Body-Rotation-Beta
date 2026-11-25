@@ -1,0 +1,2 @@
+V4 BETA — TEST ONLY
+Upload all eight files to the root of Full-Body-Rotation-Beta, NOT the production repository. Enable Pages from main / (root). Separate storage key fullBodyRotationBetaV4 and cache fbr-beta-v4-20261125. Starts empty; optionally import a copy of a production JSON backup. Development build: advanced progress metrics and full functional testing remain incomplete. Do not use as sole record of real workouts.
